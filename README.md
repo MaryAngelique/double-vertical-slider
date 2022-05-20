@@ -17,7 +17,7 @@
 
 Users should be able to:
 
-#### - 
+#### - Click the up or down button to see the image and its designated title
 
 
 ### Features
