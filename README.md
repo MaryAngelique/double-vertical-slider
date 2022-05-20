@@ -19,9 +19,6 @@ Users should be able to:
 
 #### - 
 
-#### - 
-
-#### - 
 
 ### Features
 
@@ -39,13 +36,13 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
+- Inline CSS (within HTML and JS)
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
-- Media Queries
+- CSS Universal Selector
+- Google Font Import
 
 ## Author
 
