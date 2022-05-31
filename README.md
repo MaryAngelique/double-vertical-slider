@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Double Vertical Slider Website](https://double-vertical-slider.vercel.app/)
 
 ## My process
 
